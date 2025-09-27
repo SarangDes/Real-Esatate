@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN website VARCHAR(255) AFTER email; 
